@@ -41,8 +41,8 @@ clientLidarMode = 50,  // Client requset to start or stop Lidar sensor int 1 = o
 serverLidarStatus = 51, // Status of the Lidar 1 = on, 2 = off
 
 // Lidar Sim 60 - 69
-serverGetimulatedLidarData = 60,
-clientSimulatedLidarData = 61,
+serverGetimulatedLidarData = 60,  
+clientSimulatedLidarData = 61,  
 
 // LedStripe 70 - 79
 
